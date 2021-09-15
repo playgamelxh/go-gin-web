@@ -1,0 +1,5 @@
+name: "go-gin-web"
+host: "localhost"
+port: 8800
+app:
+  modules: ["api", "default"]
